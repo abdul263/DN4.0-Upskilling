@@ -1,0 +1,3 @@
+Compile any Java class: javac HelloWorld.java
+
+Open HelloWorld.class in JD-GUI or run:java -jar cfr.jar HelloWorld.class
